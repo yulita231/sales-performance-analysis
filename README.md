@@ -95,7 +95,6 @@ sales-performance-analysis/
 │
 ├── data/
 │   └── superstore_final_dataset.csv
-│
 ├── superstore-sales.ipynb
 ├── README.md
 ├── requirements.txt
