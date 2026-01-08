@@ -106,3 +106,5 @@ sales-performance-analysis/
 
 This project demonstrates how **EDA can be used to thoroughly understand business conditions**, from sales trends to seasonal patterns.
 The resulting insights can serve as a foundation for **more effective and data-driven business strategies**.
+
+- Click here to view the interactive Dashboard : https://public.tableau.com/app/profile/yulita.rahma4367/viz/superstore-sales_17674341095240/Dashboard1
